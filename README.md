@@ -1,5 +1,4 @@
 # Baseline-Model-on-image-sentiment-analysis
-*Note that the models uploaded are not complete or final due to privacy issues*
 
 ## Sentiment analysis on multimodal media (memes)
 
