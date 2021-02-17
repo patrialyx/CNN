@@ -21,3 +21,5 @@ classification model with the best-performing text classification models. Due to
 the most targeted feature that can be utilised is facial expressions, to obtain overall sentiment. However, it is also noted that the 
 overall sentiment expressed by facial expression may differ from the overall sentiment which the author intends to express. 
 
+For more detailed analysis, [link](https://drive.google.com/file/d/13hklNWceYxUHyr2RsoFtrO_rMjGs9YAm/view?usp=sharing)
+
