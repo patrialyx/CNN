@@ -1,6 +1,7 @@
 # Baseline-Model-on-image-sentiment-analysis
 *Note that the models uploaded are not complete or final due to privacy issues*
-Sentiment analysis on multimodal media (memes)
+
+## Sentiment analysis on multimodal media (memes)
 
 Organised by SemEval-2019, an international workshop on Semantic Evaluation, the Memotion Dataset of 8K annotated memes with human 
 annotated tags is released due to the task Memotion analysis. We set out to tackle the first task – Sentiment Classification, 
